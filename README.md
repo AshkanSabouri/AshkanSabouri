@@ -45,10 +45,7 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshkanSabouri&theme=radical&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshkanSabouri)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshkanSabouri&theme=github-compact" />
 </p>
