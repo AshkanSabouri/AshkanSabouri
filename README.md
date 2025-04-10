@@ -32,18 +32,19 @@
       <td width="50%">
         <h3 align="center">🔥 Most Used Languages</h3>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=graywhite" />
         </p>
       </td>
       <td width="50%">
         <h3 align="center">📊 GitHub Stats</h3>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=graywhite&hide_border=true" />
         </p>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
