@@ -19,26 +19,32 @@
   <a href="mailto:sabouri.ashkan@yahoo.com">
     <img src="https://img.shields.io/badge/YAHOO-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
+
+
 <div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; gap: 20px;">
-    <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
-      <h3 align="center">🔥 Most Used Languages</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark" />
-      </p>
-    </div>
-    <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
-      <h3 align="center">📊 GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=vue-dark&hide_border=true" />
-      </p>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔥 Most Used Languages</h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 GitHub Stats</h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=vue-dark&hide_border=true" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
