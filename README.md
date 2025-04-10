@@ -45,11 +45,6 @@
 </div>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshkanSabouri)](https://git.io/streak-stats)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshkanSabouri&theme=github-compact" />
-</p>
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="visitor badge"/>
