@@ -36,7 +36,7 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center" style="margin-bottom: 30px;">🔥 Most Used Languages</h3>
+        <h3 align="center" style="margin-bottom: 60px;">🔥 Most Used Languages</h3>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark" />
         </p>
