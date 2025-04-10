@@ -47,9 +47,8 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=imanbakhtiari&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" />
 </p>
