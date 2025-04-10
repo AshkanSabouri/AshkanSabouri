@@ -47,13 +47,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" />
 </p>
-
 ---
 
 <p align="center">
