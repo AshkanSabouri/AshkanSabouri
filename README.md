@@ -7,13 +7,13 @@
 <br/>
 
 <p align="center">
-  <a href="github.com/ashkansabouri/resume" target="_blank">
+  <a href="https://github.com/ashkansabouri/resume" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=readme" />
   </a>
-  <a href="https://ir.linkedin.com/in/ashkan-sabouri-5a37541b5" target="_blank">
+  <a href="https://linkedin.com/in/ashkan-sabouri-5a37541b5" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="t.me/ashkan_sabouri" target="_blank">
+  <a href="https://t.me/ashkan_sabouri" target="_blank">
     <img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:sabouri.ashkan@yahoo.com">
