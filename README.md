@@ -1,4 +1,10 @@
-<h1 align="center">Hi there 👋</h1>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&animation=twinkling" />
+</div>
+
+<br/>
 
 <p align="center">
   <a href="your-resume-link" target="_blank">
@@ -17,13 +23,7 @@
 
 ---
 
-<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&animation=twinkling" />
-</div>
-
-<br/>
 
 <div align="center">
   <table>
