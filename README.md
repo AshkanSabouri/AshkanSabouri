@@ -1,7 +1,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Crafting%20Code%20with%20Passion%20💻✨&fontSize=35&fontAlignY=40&animation=twinkling" />
 </div>
 
 <br/>
