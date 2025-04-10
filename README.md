@@ -16,9 +16,10 @@
   <a href="your-telegram-link" target="_blank">
     <img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sabouri.ashkan@yahoo.com">
+    <img src="https://img.shields.io/badge/YAHOO-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
+
 </p>
 
 ---
@@ -31,13 +32,13 @@
       <td width="50%">
         <h3 align="center">🔥 Most Used Languages</h3>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=radical" />
         </p>
       </td>
       <td width="50%">
         <h3 align="center">📊 GitHub Stats</h3>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=radical&hide_border=true" />
         </p>
       </td>
     </tr>
