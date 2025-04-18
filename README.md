@@ -27,7 +27,7 @@
 <div align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=vue-dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabour&layout=compact&langs_count=10&theme=vue-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark" />
   </p>
 </div>
 
