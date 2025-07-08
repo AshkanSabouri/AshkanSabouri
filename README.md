@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Crafting%20Code%20with%20Passion%20💻✨&fontSize=35&fontAlignY=40&animation=twinkling" />
 </div>
-
+**bold**
 <br/>
 
 <p align="center">
