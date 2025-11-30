@@ -23,11 +23,11 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=vue-dark&hide_border=true&card_width=420" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=vue-dark&hide_border=true&card_width=420" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark&hide_border=true&card_width=350"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark&hide_border=true&card_width=350"
     height="170"
   />
 </div>
