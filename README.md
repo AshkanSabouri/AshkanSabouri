@@ -20,17 +20,10 @@
 </p>
 
 ---
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AshkanSabouri&show_icons=true&theme=vue-dark&hide_border=true&card_width=420" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshkanSabouri&layout=compact&langs_count=10&theme=vue-dark&hide_border=true&card_width=350"
-    height="170"
-  />
-</div>
+<img src="https://img.shields.io/github/languages/top/AshkanSabouri/resume?style=for-the-badge&color=4CAF50" />
+<img src="https://img.shields.io/github/repo-count/AshkanSabouri?style=for-the-badge&color=2196F3" />
+<img src="https://img.shields.io/github/followers/AshkanSabouri?style=for-the-badge&color=ff9800" />
+<img src="https://img.shields.io/github/stars/AshkanSabouri?style=for-the-badge&color=9c27b0" />
 
 ---
 
