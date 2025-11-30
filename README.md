@@ -20,11 +20,11 @@
 </p>
 
 ---
-<img src="https://img.shields.io/github/languages/top/AshkanSabouri/resume?style=for-the-badge&color=4CAF50" />
-<img src="https://img.shields.io/github/repo-count/AshkanSabouri?style=for-the-badge&color=2196F3" />
-<img src="https://img.shields.io/github/followers/AshkanSabouri?style=for-the-badge&color=ff9800" />
-<img src="https://img.shields.io/github/stars/AshkanSabouri?style=for-the-badge&color=9c27b0" />
-
+<div align="center">
+  <img src="https://img.shields.io/github/languages/top/AshkanSabouri/resume?style=for-the-badge&color=4CAF50" />
+  <img src="https://img.shields.io/github/followers/AshkanSabouri?style=for-the-badge&color=ff9800" />
+  <img src="https://img.shields.io/github/stars/AshkanSabouri?style=for-the-badge&color=9c27b0" />
+</div>
 ---
 
 <p align="center">
